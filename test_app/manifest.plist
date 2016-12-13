@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/eeesyshj/ipa/master/test_app/ipa.ipa</string>
+					<string>http://demowechat.eeesys.com/szslyy.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/eeesyshj/ipa/master/test_app/57.png</string>
+					<string>http://image.eeesys.com/small/2016/20161213/20161213161949.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/eeesyshj/ipa/master/test_app/512.png</string>
+					<string>http://image.eeesys.com/small/2016/20161213/20161213161949.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xxxx.xxxx</string>
+				<string>com.txby.szslyyTest</string>
 				<key>bundle-version</key>
-				<string>2.0</string>
+				<string>0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>test ipa</string>
+				<string>市立公众版</string>
 			</dict>
 		</dict>
 	</array>
